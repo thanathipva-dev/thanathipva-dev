@@ -60,6 +60,7 @@
   * **[ชื่อระบบที่ 1]** — พัฒนาระบบ Backend API และจัดการฐานข้อมูล MySQL ด้วย Docker
   * **[ชื่อระบบที่ 2]** — พัฒนาแอปพลิเคชันด้วย Flutter เชื่อมต่อกับระบบคลาวด์
 
-     <img height="175em" src="https://streak-stats.demolab.com?user=thanathipva-dev&theme=tokyonight" alt="GitHub Streak" />
-
+   <div align="center">
+  <img height="175em" src="https://streak-stats.demolab.com?user=thanathipva-dev&theme=tokyonight" alt="GitHub Streak" />
+</div>
      
