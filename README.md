@@ -51,3 +51,15 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=thanathipva-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanathipva-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
+---
+
+### 🎓 การศึกษา & ผลงานวิชาเรียน (Education & Academic Projects)
+
+* **สาขาวิชา:** [เทคโนโลยีสารสนเทศ] — [มหาวิทยาลัยเกษตรศาสตร์]
+* **โปรเจกต์เด่น:** 
+  * **[ชื่อระบบที่ 1]** — พัฒนาระบบ Backend API และจัดการฐานข้อมูล MySQL ด้วย Docker
+  * **[ชื่อระบบที่ 2]** — พัฒนาแอปพลิเคชันด้วย Flutter เชื่อมต่อกับระบบคลาวด์
+
+     <img height="175em" src="https://streak-stats.demolab.com?user=thanathipva-dev&theme=tokyonight" alt="GitHub Streak" />
+
+     
